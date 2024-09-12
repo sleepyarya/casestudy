@@ -15,7 +15,7 @@ public class modifikasi_kode {
         System.out.println("Masukkan nuas : ");
         nilaiuas = s.nextDouble();
 
-        nilaiakhir = (nilaikuis*20/100 + nilaitugas*15/100 + nilaiuts*30/100 + nilaiuas*35/100);
+        nilaiakhir = (nilaikuis*20/100 + nilaitugas*15/100 + nilaiuts*30/100+ nilaiuas*35/100);
         System.out.println("Nilai Akhir : " + nilaiakhir);
     }
 }
