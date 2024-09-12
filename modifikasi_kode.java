@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class trial {
+public class modifikasi_kode {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         double nilaikuis, nilaitugas, nilaiuts, nilaiuas, nilaiakhir;
