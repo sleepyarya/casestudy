@@ -35,8 +35,8 @@ public class siakad3{
 
         //menampilkan data mahasiswa beserta nilai
 
-        System.out.println("Nama : " + nama + " NIM : " + nim);
-        System.out.println("Kelas : " + kelas + " Absen : " + absen);
+        System.out.println("Nama : " + nama + " || NIM : " + nim);
+        System.out.println("Kelas : " + kelas + " || Absen : " + absen);
         System.out.println("Nilai Akhir : " + nilaiakhir);
 
 
